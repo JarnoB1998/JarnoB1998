@@ -1,59 +1,75 @@
-👋 Hey there! I'm Jarno Beyers
+# 👋 Hi, I'm **Jarno Beyers**
 
-Web Development & Cloud student at AP University of Applied Sciences in Belgium.
-Passionate about JavaScript, TypeScript, MySQL, Node.js, Express, Git, C#, Linux tools, and modern web design.
+### Web Development & Cloud student at **AP University of Applied Sciences** (Belgium)  
+Passionate about **JavaScript**, **TypeScript**, **MySQL**, **Node.js**, **Express**, **Git**, **C#**, and learning modern web technologies.
 
-I love building things, breaking things (accidentally 😅), and most importantly: learning every single day.
-GitHub is my playground where I experiment, improve, and turn classroom concepts into real code.
+I love building things, breaking things (accidentally 😅), fixing them again, and improving a little every day.  
+GitHub is my playground where I turn ideas and school projects into real code.
 
-🚀 What I'm Currently Working On
+---
 
-👨‍💻 Web development projects in JavaScript & TypeScript
+## 🚀 What I'm Currently Working On
+- Web development projects with **JavaScript & TypeScript**
+- Node.js + Express **web server** experiments  
+- MySQL databases: modeling, queries, stored procedures  
+- Git workflows: branching, PRs, merging  
+- Cloud basics: Docker, reverse proxy demos  
+- School labs (DigitAP / IT Essentials)
 
-📘 AP Hogeschool lab exercises (DigitAP / IT Essentials)
+---
 
-🌐 Building web servers with Node.js + Express
+## 🧠 What I'm Learning Right Now
+- Async/await, fetch, API handling  
+- Fullstack TypeScript (TS → Node → Express)  
+- Security basics (sanitizing, hashing)  
+- Public APIs integration (JokeAPI, JSONPlaceholder, CocktailDB)  
+- Responsive design & UI fundamentals  
+- Linux CLI & Git mastery  
+- Advanced SQL (views, triggers, stored procedures)
 
-💾 Database design & SQL logic with MySQL
+---
 
-🔧 Git workflows (branches, pull requests, forking, merging)
+## 🛠️ Tech Stack
 
-🔍 Cloud & container basics with Docker and reverse proxy setups
+### **Frontend**
+- HTML5  
+- CSS3  
+- JavaScript  
+- TypeScript  
 
-🧠 What I'm Learning
+### **Backend**
+- Node.js  
+- Express.js  
 
-⚡ Asynchronous programming (async/await, fetch, APIs)
+### **Database**
+- MySQL  
 
-🏗️ Fullstack TypeScript (TS → Node.js → Express)
+### **Tools**
+- Git  
+- GitHub  
+- VS Code  
+- Docker  
+- Postman  
+- Wireshark  
 
-🔐 Security basics (hashing, validation, sanitization)
+### **Other**
+- Packet Tracer  
+- mitmproxy  
+- Bash  
+- C#
 
-🌍 Working with public APIs (CocktailDB, JSONPlaceholder, JokeAPI…)
+---
 
-🎨 Responsive web design & UI fundamentals
+## ❤️ Things I Enjoy as a Developer
+- Writing clean and understandable code ✨  
+- Smart commit messages  
+- Debugging until it finally works  
+- Learning new languages, tools, and ideas  
+- Slight panic when Git says *fatal error*,  
+  followed by a hero moment when it gets fixed 😄  
 
-🐧 Linux CLI & Git mastery (Bash, commits, merges, logs)
+---
 
-🐘 Advanced MySQL (views, stored procedures, triggers)
-
-🛠️ Technologies & Tools
-
-Frontend: HTML5, CSS3, JavaScript, TypeScript
-Backend: Node.js, Express.js
-Database: MySQL
-Tools: Git, GitHub, VS Code, Docker, Postman, Wireshark
-Extra: Packet Tracer, mitmproxy, Bash, C#
-
-❤️ What I Enjoy as a Developer
-
-Writing clean, readable code ✨
-
-Smart commit messages
-
-Debugging until the problem gives up
-
-Learning new technologies
-
-Slightly panicking when Git says “fatal: … denied”
-
-Then feeling like a hero when everything finally works 😄
+## 📫 Contact Me
+Want to collaborate, share ideas, or just chat?  
+Feel free to reach out here on GitHub or connect on LinkedIn!
